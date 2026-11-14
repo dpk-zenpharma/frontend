@@ -1,4 +1,4 @@
-## zen-pharma-frontend
+## zen-pharma-frontend 
 
 React 18 frontend for the Zen Pharma platform. Served via Nginx inside a Docker container and deployed to AWS EKS via GitOps (ArgoCD).
 
